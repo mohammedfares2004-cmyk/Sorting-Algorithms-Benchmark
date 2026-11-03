@@ -159,7 +159,6 @@ Selection وInsertion وBubble تحتاج عدداً من العمليات يق�
 
 ---
 
-<div align="center">
 
 **صُنع بـ ❤️ و☕ بواسطة محمد عادل فارس**
 
